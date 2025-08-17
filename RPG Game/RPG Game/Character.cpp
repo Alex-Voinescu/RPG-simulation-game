@@ -154,7 +154,7 @@ void Character::lvlUp()
 	lvl++;
 	setRemainingHealthPoints(this->remainingHealthPoints + baseHealthPoints);
 	setHealthPotionsCount(this->healthPotionsCount + startHealthPotionsCount);
-
+	std::cout << "Level up! Your stats have been incresed! \n\n";
 }
 
 bool Character::isDead()
