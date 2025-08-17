@@ -32,6 +32,12 @@ void Game::Run()
 	int i = 0;
 	bool succes = true;
 	int choice = 0;
+	
+	std::cout << "Choose your name: ";
+	char* name = new char[256];
+	std::cin.getline(name, 256);
+	mainCharacter.setName(name);
+
 	while (!mainCharacter.isDead() && i < enemiesCount)
 	{
 
@@ -74,8 +80,8 @@ void Game::Run()
 		i++;
 	}
 	if (succes)
-		std::cout << "succes, well done champ: " << mainCharacter;
+		std::cout << "Succes, well done champ: " << mainCharacter;
 	else
-		std::cout << "Too bad, better luck next time champ \n";
-
+		std::cout << "Too bad, better luck next time champ! \n";
+	delete[] name;
 }
