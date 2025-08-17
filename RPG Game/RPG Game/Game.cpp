@@ -82,6 +82,6 @@ void Game::Run()
 	if (succes)
 		std::cout << "Succes, well done champ: " << mainCharacter;
 	else
-		std::cout << "Too bad, better luck next time champ \n";
-
+		std::cout << "Too bad, better luck next time champ! \n";
+	delete[] name;
 }

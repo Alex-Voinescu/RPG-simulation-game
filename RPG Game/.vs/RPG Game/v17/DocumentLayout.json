@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,6 +46,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\GitHub Projects\\RPG Simulation Game\\RPG Game\\RPG Game\\Game.cpp",
+              "RelativeDocumentMoniker": "RPG Game\\Game.cpp",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\GitHub Projects\\RPG Simulation Game\\RPG Game\\RPG Game\\Game.cpp",
+              "RelativeToolTip": "RPG Game\\Game.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-13T07:30:45.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Character.cpp",
               "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\GitHub Projects\\RPG Simulation Game\\RPG Game\\RPG Game\\Character.cpp",
@@ -54,21 +67,7 @@
               "RelativeToolTip": "RPG Game\\Character.cpp",
               "ViewState": "AgIAANIAAAAAAAAAAADwv9oAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-13T07:29:03.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Game.cpp",
-              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\GitHub Projects\\RPG Simulation Game\\RPG Game\\RPG Game\\Game.cpp",
-              "RelativeDocumentMoniker": "RPG Game\\Game.cpp",
-              "ToolTip": "C:\\Users\\alexa\\Desktop\\GitHub Projects\\RPG Simulation Game\\RPG Game\\RPG Game\\Game.cpp",
-              "RelativeToolTip": "RPG Game\\Game.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAiwEEAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-13T07:30:45.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T07:29:03.936Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "RPG Game\\characters.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-08-13T07:30:22.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T07:30:22.518Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "RPG Game\\Game.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-13T07:30:01.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T07:30:01.12Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "RPG Game\\Character.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-13T07:29:35.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T07:29:35.23Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "RPG Game\\Source.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-13T07:28:08.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T07:28:08.705Z"
             }
           ]
         }
